@@ -1,0 +1,70 @@
+Peer ('10.155.36.140', 61042) registered with RS
+
+No RFCs on localhost
+
+Starting server.....
+
+KEEPALIVE P2P-DI/1.0 Host:10.155.36.140cookieNum:10.155.36.140:61042OS:Windows
+
+KEEP ALIVE!!!!
+Contacting RS server for obtaining RFC 8130......
+
+
+GET PEER-INDEX P2P-DI/1.0 Host:10.155.36.140 cookieNum:10.155.36.140:61042 OS:Windows
+Requesting Peer-Index from RS....
+
+...
+
+Peer-Index successfully downloaded on ('10.155.36.140', 61044)
+
+GET RFC-INDEX P2P-DI/1.0 Host:10.155.36.140 OS:Windows
+Requesting RFC-Index from Peer 10.154.0.185:40004....
+
+...
+
+...
+
+RFC-Index successfully downloaded on ('10.155.36.140', 61045)
+
+Searching Merged RFC-Index....
+
+GET RFC8130 P2P-DI/1.0 Host:10.155.36.140OS:Windows
+Requesting RFC 8130 from peer 10.154.0.185:40004..
+
+RFC 8130 successfully downloaded!
+
+Contacting RS server for obtaining RFC 8131......
+
+GET PEER-INDEX P2P-DI/1.0 Host:10.155.36.140 cookieNum:10.155.36.140:61042 OS:Windows
+Requesting Peer-Index from RS....
+
+
+Peer-Index successfully downloaded on ('10.155.36.140', 61047)
+
+GET RFC-INDEX P2P-DI/1.0 Host:10.155.36.140 OS:Windows
+Requesting RFC-Index from Peer 10.154.0.185:40004....
+
+...
+
+...
+
+RFC-Index successfully downloaded on ('10.155.36.140', 61048)
+
+Searching Merged RFC-Index....
+
+GET RFC8131 P2P-DI/1.0 Host:10.155.36.140 OS:Windows
+Requesting RFC 8131 from peer 10.154.0.185:40004..
+
+RFC 8131 successfully downloaded!
+
+
+Completed searching for all required RFCs
+
+Leave or stay??
+KEEPALIVE P2P-DI/1.0 Host:10.155.36.140cookieNum:10.155.36.140:61042OS:Windows
+
+KEEP ALIVE!!!!
+
+Leave
+LEAVE P2P-DI/1.0 Host:10.155.36.140cookieNum:10.155.36.140:61042OS:Windows
+Leaving the P2P network

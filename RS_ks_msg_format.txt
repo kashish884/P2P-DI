@@ -1,0 +1,52 @@
+C:\Users\HP\venv\py2.7\Scripts\python.exe "C:/Users/HP/PycharmProjects/final task/RS_ks.py"
+
+on Connection from: ('10.155.36.140', 61040)
+on Connection from: ('10.154.0.185', 50149)
+
+Registering the Client P2P-DI/1.0 200 OK 
+Cookie:10.154.0.185:50149
+Hostname:10.154.0.185
+OS:Windows
+
+Hostname	Cookie			Active Flag		TTL		Listening_Port	Registration Count	Most Recent Registration
+
+10.154.0.185	10.154.0.185:50149	Active		       7200	           40004	1			Tue Oct  1 00:09:59 2019
+
+on Connection from: ('10.154.0.185', 50150)
+on Connection from: ('10.155.36.140', 61042)
+
+Registering the Client P2P-DI/1.0 200 OK 
+Cookie:10.155.36.140:61042
+Hostname:10.155.36.140
+OS:Windows
+
+Hostname	Cookie			Active Flag		TTL		Listening_Port	Registration Count	Most Recent Registration
+
+10.155.36.140	10.155.36.140:61042	Active		        7200	           40004	1			Tue Oct  1 00:10:29 2019
+10.154.0.185	10.154.0.185:50149	Active		        7199	           40004	1			Tue Oct  1 00:09:59 2019
+
+on Connection from: ('10.155.36.140', 61043)
+on Connection from: ('10.155.36.140', 61047)
+
+SENDING PEER - INDEX  P2P-DI/1.0 200 OK
+Hostname:10.155.36.140
+OS:Windows
+
+
+on Connection from: ('10.155.36.140', 61050)
+
+Setting Peer ('10.155.36.140', 61050) to 'Inactive'
+
+Hostname	Cookie			Active Flag		TTL		Listening_Port	Registration Count	Most Recent Registration
+
+10.155.36.140	10.155.36.140:61042	Inactive		0	            40004	1			Tue Oct  1 00:10:29 2019
+10.154.0.185	10.154.0.185:50149	Active		       7190	            40004	1			Tue Oct  1 00:09:59 2019
+
+Setting Peer ('10.154.0.185', 50155) to 'Inactive'
+
+    Hostname	Cookie			Active Flag		TTL		Listening_Port	Registration Count	Most Recent Registration
+
+    10.155.36.140	10.155.36.140:61042	Inactive	7198	             40004	1			Tue Oct  1 00:10:29 2019
+    10.154.0.185	10.154.0.185:50149	Inactive	0	             40004	1			Tue Oct  1 00:09:59 2019
+
+    
